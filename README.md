@@ -1,7 +1,7 @@
 # daily-planner
 
 ## Description
-A webpage that allows you to scheduled your work day for each hour :). The page can be found at https://landonkimber.github.io/.
+A webpage that allows you to scheduled your work day for each hour :). The page can be found at https://landonkimber.github.io/daily-planner/.
 
 ## Credits
 Used starter code from The Coding Bootcamp crispy-octo-meme github repository https://github.com/coding-boot-camp/crispy-octo-meme
